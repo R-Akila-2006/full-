@@ -1,0 +1,23 @@
+/* element selecter */
+h1{
+    color: brown;
+}
+/* class selecter */
+.ak{
+    color: aqua;
+}
+/* id selecter */
+#potter{
+    background-color: chartreuse;
+}
+/* 
+unversial selecter
+*{
+    color: red;
+}
+
+*/
+.potter{
+    background-color: blueviolet;
+    color: yellowgreen;
+}
